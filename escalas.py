@@ -1,5 +1,6 @@
 motoristas = ['Bruno Martins', 
-              'João Santos', 
+              'João Santos',
+              'Paula Durães', 
               'David Figueirinha', 
               'Telmo Ferreira', 
               'Cristóvão Santos', 
