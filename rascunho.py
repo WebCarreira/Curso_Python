@@ -10,6 +10,7 @@
 # z = x // y #dá erro porque tem espaçamento a mais
 #print(z)
 
-x = {1, 2, 3}
-x.add(2)
-print(x)
+fruits = {'apple', 'banana', 'cherry'}
+fruits.add('orange')
+print(fruits)
+
