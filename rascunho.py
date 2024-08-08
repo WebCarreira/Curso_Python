@@ -10,7 +10,10 @@
 # z = x // y #dá erro porque tem espaçamento a mais
 #print(z)
 
-fruits = {'apple', 'banana', 'cherry'}
-fruits.add('orange')
-print(fruits)
+car = {
+    'brand' : 'Ford',
+    'model' : 'Mustang',
+    'year' : 1964
+}
 
+print(car.update('year' : 2020))
