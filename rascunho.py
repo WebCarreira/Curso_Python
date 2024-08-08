@@ -16,4 +16,9 @@ car = {
     'year' : 1964
 }
 
-print(car.update('year' : 2020))
+
+#print(car.update({'year': 2020}))
+#car['year'] = 2020
+#car.update({'color' : 'red'}) # ou car['color] = 'red
+car.pop('model')
+print(car)
